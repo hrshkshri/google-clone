@@ -1,32 +1,16 @@
 # Google Clone with ReactJs
 
-This is a Google search clone created using React.js, Tailwind CSS, Vite, and the Google Search API. It provides features like debounced search,autocomplete suggestions, and displays search results along with images, pagination and multilingual support using Google Translate. The Context API is used for state management for searching images.
-
-
-## Table of Contents
-
-- [Google Clone with ReactJs](#google-clone-with-reactjs)
-  - [Table of Contents](#table-of-contents)
-  - [Demo](#demo)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-  - [Usage](#usage)
-  - [Technologies Used](#technologies-used)
-  - [Contributing](#contributing)
-
+This is a Google search clone created using React.js, Tailwind CSS, Vite, and the Google Search API. It provides features like debounced search, autocomplete suggestions, and displays search results along with images, pagination and multilingual support using Google Translate. The Context API is used for state management for searching images.
 
 ## Demo
 
-You can access the live demo of the Google Clone here:
+You can access the live demo of the Google Clone here: https://clonegoogle.vercel.app/
 
 ## Features
 
 - **Google Search Integration:** Perform a Google search with the provided search query.
-- **Voice Recognition:** Use your microphone to perform a voice search.
 - **Autocomplete Suggestions:** Display search suggestions as you type.
 - **Search Results:** Show search results including web pages and images.
-- **Multilingual Support:** Explore content in multple langugages using Google Translate
 - **Pagination:** Easily Navigate through search results with pagination.
 
 ## Installation
@@ -76,9 +60,4 @@ This will start the development server at `http://localhost:3000`.
 - Vite
 - Google Search API
 - Context API
-
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests to help improve this project.
 
